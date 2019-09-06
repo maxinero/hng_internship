@@ -11,3 +11,6 @@ line-height:2em;
 font-family: arial;
 
     }
+fieldset{
+  width: auto;
+}
